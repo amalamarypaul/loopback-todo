@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Todo": 7
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"Super!\",\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Super!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Super!\",\"id\":3}",
+      "5": "{\"title\":\"Get ready for the meeting\",\"id\":5,\"desc\":\"Super!\"}",
+      "6": "{\"title\":\"Add todo\",\"desc\":\"Super! Loopback 4 is working\",\"id\":6}"
+    }
+  }
+}
